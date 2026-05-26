@@ -1,0 +1,21 @@
+Name,Gender,Age,Class,Home,Unit Test 1,Unit Test 2,Final Test
+Abhimanyu,M,16,10,Bhumi,84,79,81
+Arjun,M,11,5,Agni,82,83,91
+Champa,F,15,8,Aayu,81,78,88
+Gopal,M,14,8,Pruthvi,70,75,79
+Gopi,F,16,10,Pruthvi,88,92,96
+Hari,M,16,10,Aayu,82,81,80
+Indu,F,14,8,Agni,90,86,89
+Keshav,M,15,9,Agni,87,89,96
+Lalita,F,17,10,Aayu,70,90,92
+Hari,M,11,6,Bhumi,91,81,95
+Madhav,M,12,7,Bhumi,86,92,89
+Sudevi,F,16,10,Bhumi,81,80,87
+Vidya,F,11,6,Aayu,88,90,92
+Visakha,F,16,10,Aayu,70,87,85
+Vrinda,F,14,8,Pruthvi,91,96,98
+,,,,,,,
+,,,,Mean,82.7,85.3,
+,,,,Median,84,86,
+,,,,Mode,70,92,
+,,,,SumProduct,1241,1279,
