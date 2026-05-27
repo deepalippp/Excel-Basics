@@ -1,2 +1,2 @@
 # Excel-Basics
-Introduction,Formatting,Sort,Filter,Slicers,Aggregrate Functions,Pivot
+Introduction,Formatting,Sort,Filter,Aggregrate Functions,Slicers,Pivot,Vlookup
